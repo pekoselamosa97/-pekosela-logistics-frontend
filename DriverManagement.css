@@ -1,0 +1,27 @@
+.badge {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border-radius: 5px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.badge.fulltime {
+  background: #28a745;
+  color: white;
+}
+
+.badge.contract {
+  background: #ffc107;
+  color: #333;
+}
+
+.badge.manager {
+  background: #17a2b8;
+  color: white;
+}
+
+.badge.staff {
+  background: #6c757d;
+  color: white;
+}

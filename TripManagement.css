@@ -1,0 +1,39 @@
+.status-badge {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border-radius: 5px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.status-completed {
+  background: #28a745;
+  color: white;
+}
+
+.status-transit {
+  background: #17a2b8;
+  color: white;
+}
+
+.status-pending {
+  background: #ffc107;
+  color: #333;
+}
+
+.status-scheduled {
+  background: #6c757d;
+  color: white;
+}
+
+.status-select {
+  padding: 0.25rem;
+  margin-right: 0.5rem;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+
+.assign-btn {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.75rem;
+}
